@@ -104,6 +104,17 @@
     [self.view endEditing:YES];
 }
 
+- (IBAction)sendClick:(UIButton *)sender {
+    
+    // 1.获取用户输入的信息
+    [self sendMessage: self.textField.text type:FDMessageTypeMine];
+    
+    // 实现自动回复
+    [self sendMessage:@"主人，柚子听不懂你的意思，请再说一遍。" type:FDMessageTypeOthers];
+    
+    self.textField.text = nil;
+    
+}
 
 #pragma mark - UITextFieldDelegate
 - (BOOL)textFieldShouldReturn:(UITextField *)textField {
