@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>你好，主人，想要什么东西呢？发【商品名】，我帮你找优惠券和攻略，如【运动服】。</string>
+		<key>time</key>
+		<string>昨天 12:00</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>饼干</string>
+		<key>time</key>
+		<string>昨天 12:00</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>好的，主人，正在为你找【饼干】。</string>
+		<key>time</key>
+		<string>昨天 12:01</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>好的，主人，正在为你找【饼干】。</string>
+		<key>time</key>
+		<string>昨天 12:01</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>product_name</key>
+		<string>猴头菇饼干</string>
+		<key>product_type</key>
+		<string>淘宝</string>
+		<key>product_oldPrice</key>
+		<string>192.22</string>
+		<key>product_price</key>
+		<string>92.12</string>
+		<key>product_icon</key>
+		<string>u920</string>
+		<key>product_showType</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>好的，主人，正在为你找【饼干】。</string>
+		<key>time</key>
+		<string>昨天 12:01</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>product_name</key>
+		<string>优冠牛奶饼干</string>
+		<key>product_type</key>
+		<string>天猫</string>
+		<key>product_oldPrice</key>
+		<string>492.22</string>
+		<key>product_price</key>
+		<string>392.28</string>
+		<key>product_icon</key>
+		<string>u942</string>
+		<key>product_showType</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>好的，主人，正在为你找【饼干】。</string>
+		<key>time</key>
+		<string>昨天 12:01</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>product_name</key>
+		<string>NABATI芝士棒</string>
+		<key>product_type</key>
+		<string>淘宝</string>
+		<key>product_oldPrice</key>
+		<string>42.65</string>
+		<key>product_price</key>
+		<string>32.12</string>
+		<key>product_icon</key>
+		<string>u956</string>
+		<key>product_showType</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>主人，想要什么东西呢？发【商品名】，我帮你找优惠券和攻略，如【运动服】。</string>
+		<key>time</key>
+		<string>昨天 15:21</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Fatal Rezzo</string>
+		<key>time</key>
+		<string>昨天 15:22</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>好的，主人，正在为你找【Fatal Rezzo】。</string>
+		<key>time</key>
+		<string>昨天 15:23</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>对不起，主人，没有找到与【Fatal Rezzo】相关的商品。</string>
+		<key>time</key>
+		<string>昨天 15:23</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>主人，还需要找其它产品吗？</string>
+		<key>time</key>
+		<string>昨天 15:23</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>不需要了,退下吧</string>
+		<key>time</key>
+		<string>昨天 15:24</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>主人，柚子随时听您的吩咐~</string>
+		<key>time</key>
+		<string>昨天 15:23</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>主人，今天有【促销特卖专场】快去参加吧</string>
+		<key>time</key>
+		<string>今天 00:00</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>好的，主人，正在为你找【饼干】。</string>
+		<key>time</key>
+		<string>今天 00:00</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>product_showType</key>
+		<integer>2</integer>
+		<key>product_name</key>
+		<string>NABATI芝士棒</string>
+		<key>product_type</key>
+		<string>淘宝</string>
+		<key>product_oldPrice</key>
+		<string>42.65</string>
+		<key>product_price</key>
+		<string>32.12</string>
+		<key>product_icon</key>
+		<string>u1057</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>点击上图，直接跳转到专卖会页面</string>
+		<key>time</key>
+		<string>今天 00:00</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>不需要了,退下吧</string>
+		<key>time</key>
+		<string>今天 00:01</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>
